@@ -26,7 +26,7 @@ gantt
     使用者測試         :a11, after a10 ,3d
 ```
 ***
-
+![PERT](PERT02.jpg)
 
 
 
