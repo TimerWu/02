@@ -8,6 +8,7 @@
 | 組員         | C109118147_黃梃祥 | 程式開發    |
 | 組員         | C109118156_邱健誠 | 程式開發    |
 ***
+# 甘特圖  
 ```mermaid
 gantt
     title A Gantt Diagram
@@ -26,4 +27,5 @@ gantt
     使用者測試         :a11, after a10 ,3d
 ```
 ***
+# PERT圖與關鍵路徑
 ![PERT](pert.jpg)
